@@ -1,0 +1,19 @@
+
+# Mac directory file
+.DS_Store
+
+# Virtual environment
+venv
+
+# Data
+data/
+outputs/
+
+# API keys
+us_census_api_key.txt
+
+# RStudio files
+.Rproj.user
+*Rproj
+.Rhistory
+
