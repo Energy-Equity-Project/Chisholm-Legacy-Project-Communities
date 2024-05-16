@@ -1,4 +1,4 @@
-# The Chishold Legacy Project Communities
+# The Chisholm Legacy Project - Communities
 
 ## Communities of Interest
 - TCLP Regions 5, 6, 7
